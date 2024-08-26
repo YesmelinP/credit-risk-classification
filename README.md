@@ -14,10 +14,10 @@ Analysis Report for the project.
 ## Resources
 Contains the lending data used for the analysis and model development.
 ## Libraries Used
-pandas: Data manipulation and analysis
-numpy: Numerical operations.
-pathlib.Path: Handling file paths.
-sklearn.metrics: For model evaluation (confusion matrix, classification report).
+- pandas: Data manipulation and analysis
+- numpy: Numerical operations.
+- pathlib.Path: Handling file paths.
+- sklearn.metrics: For model evaluation (confusion matrix, classification report).
 
 ### Help
 Tutoring session with Justin.
