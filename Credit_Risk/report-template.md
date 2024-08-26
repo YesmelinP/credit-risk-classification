@@ -28,12 +28,12 @@ We used a confusion matrix to evaluate the model's performance, which provided i
 ## Results
 The classification report for our model shows:
 
-Class	Precision	Recall	F1-Score	Support
-
 <img width="459" alt="Screenshot 2024-08-25 at 9 57 19 PM" src="https://github.com/user-attachments/assets/74b5e173-0ae6-46db-8e56-660a2ab63a69">
 
 **Accuracy:** The model's accuracy is 99%. This high accuracy is partly due to the dataset imbalance, with more healthy loans than high-risk loans, which can skew this metric.
+
 **Precision:** The model achieved 100% precision for healthy loans and 85% for high-risk loans.
+
 **Recall:** The recall is 99% for healthy loans and 91% for high-risk loans, indicating the model's effectiveness in identifying most of the true positives for both classes.
 
 ## Summary
